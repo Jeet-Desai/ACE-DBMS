@@ -1,6 +1,6 @@
 # Advanced Crime Examination (ACE) Database Management System
 
-Welcome to the Advanced Crime Examination (ACE) Database Management System. This system is designed to streamline and enhance the operations of the ACE crime investigation agency. It provides a comprehensive platform for managing crime-related data, facilitating efficient and effective investigation processes.
+Welcome to the Advanced Crime Examination (ACE) Database Management System. This system is designed to streamline and enhance the operations of the ACE crime investigation agency. It provides a comprehensive platform for managing crime-related data, facilitating efficient investigation processes.
 
 ## Features
 
